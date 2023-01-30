@@ -1,4 +1,4 @@
-body{
+body {
     background-color: #777777;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -72,6 +72,5 @@ a:hover{
 
 .right {
     text-align: right;
-    padding-top: 10px ;
-
+    padding-top: 7px;
 }
